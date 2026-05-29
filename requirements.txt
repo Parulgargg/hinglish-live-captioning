@@ -1,0 +1,12 @@
+torch
+transformers
+datasets
+accelerate
+evaluate
+jiwer
+sacrebleu
+sentencepiece
+indic-transliteration
+librosa
+soundfile
+whisperx
